@@ -1,3 +1,4 @@
 <?php
-	echo "hello world.";
+	$va = "Fairuz Sulaiman";
+	echo "hello world.".$va;
 ?>
